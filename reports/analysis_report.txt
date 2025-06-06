@@ -1,0 +1,48 @@
+
+========================================
+LOG ANALYSIS REPORT
+Generated: 2025-06-06 15:49:25
+Log Type: Heart Rate
+Source File: active_logs/heart_rate_log.log
+========================================
+
+DEVICE OCCURRENCE ANALYSIS:
+----------------------------
+Device: HeartRate_Monitor_A
+  Total Occurrences: 1027
+  First Entry: 2025-06-06 15:32:16
+  Last Entry: 2025-06-06 15:49:25
+
+Device: HeartRate_Monitor_B
+  Total Occurrences: 1027
+  First Entry: 2025-06-06 15:32:16
+  Last Entry: 2025-06-06 15:49:25
+
+SUMMARY:
+--------
+Total Devices: 2
+Total Log Entries: 2054
+
+========================================
+LOG ANALYSIS REPORT
+Generated: 2025-06-06 15:51:16
+Log Type: Temperature
+Source File: active_logs/temperature_log.log
+========================================
+
+DEVICE OCCURRENCE ANALYSIS:
+----------------------------
+Device: Temp_Recorder_A
+  Total Occurrences: 1129
+  First Entry: 2025-06-06 15:32:25
+  Last Entry: 2025-06-06 15:51:16
+
+Device: Temp_Recorder_B
+  Total Occurrences: 1129
+  First Entry: 2025-06-06 15:32:25
+  Last Entry: 2025-06-06 15:51:16
+
+SUMMARY:
+--------
+Total Devices: 2
+Total Log Entries: 2258
