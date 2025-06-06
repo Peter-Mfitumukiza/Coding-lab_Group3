@@ -27,11 +27,6 @@ active_logs/        - current logs
 reports/            - analysis output
 ```
 
-## Group
-
-- Joseph Rukundo
-- [others tbd]
-
 ## Notes
 
 - chmod +x the .sh files first
